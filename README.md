@@ -34,4 +34,5 @@ This project is to analyze cryptocurrencies trends using unsupervised machine le
 From the analysis, there are 532 tradable cryptocurrencies.
 
 ***Figure 1: K-Means Clusters***
+
 ![3D_scatter.png](Images/3D_scatter.png)
